@@ -1,4 +1,4 @@
-## Oiii, Me chamo Lorena sou estudante pelo  do ensino médio integrado com curso técnico em Desenvolvimento de Sistemas pelo SESI/SENAI
+### Oiii, Me chamo Lorena sou estudante pelo  do ensino médio integrado com curso técnico em Desenvolvimento de Sistemas pelo SESI/SENAI
 #### Busco sempre aprender e me desenvolver profissionalmente
 # Com conhecimento Em: 
 <div style="display: inline_block"><br>
