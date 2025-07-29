@@ -28,3 +28,24 @@
 
 </div>
 
+# 
+<br>
+
+
+
+<div align="center">
+
+ ## **Rendimento**
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorena170&show_icons=true&theme=tokyonight&count_private=true) 
+
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorena170&layout=compact&theme=tokyonight)
+  
+   
+</div>
+
+
+
+  
+
