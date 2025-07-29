@@ -32,15 +32,16 @@
 <br>
 
 
-
-<div align="center">
+<div aling="center">
 
  ## **Rendimento**
+
+</div>
+
+<div align="">
+
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorena170&show_icons=true&theme=synthwave&count_private=true) 
-
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorena170&layout=compact&theme=synthwave)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorena170&show_icons=true&theme=synthwave&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorena170&layout=compact&theme=synthwave)
   
    
 </div>
